@@ -1,0 +1,17 @@
+{
+  "name": "tz_mappings",
+  "description": "Time-zone mappings for CLDR data.",
+  "version": "1.0.1",
+  "private": false,
+  "author": "yrammos",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": ["cldr", "i18n"],
+  "repository": "https://github.com/yrammos/tz_mappings",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
